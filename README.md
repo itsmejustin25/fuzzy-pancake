@@ -1,2 +1,2 @@
 # fuzzy-pancake
-UNC SYF
+Homework for UNCC
